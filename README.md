@@ -24,7 +24,7 @@ Among the many tools and challenges covered, some of my favorites included stopp
 These experiences finally satisfied my itching curiosity on how to effectively discover and mitigate these types of cyber threats!
 ____________________________________________________________________________________
 
-Certification: 
+Certification (THM-7H0UXOHBQ3): 
 
 ![image](https://github.com/user-attachments/assets/e1d60537-c93e-4cdc-a67e-801438f54f63)
 
