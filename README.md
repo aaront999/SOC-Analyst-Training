@@ -2,7 +2,7 @@
 ____________________________________________________________________________________
 
 
-Objectives: https://tryhackme.com/r/path/outline/soclevel1
+Roadmap: https://tryhackme.com/r/path/outline/soclevel1
 
 - Detect and analyze traffic anomalies
 
